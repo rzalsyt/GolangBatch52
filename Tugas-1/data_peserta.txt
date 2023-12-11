@@ -1,0 +1,6 @@
+// Data Peserta Bootcamp Digital Skill - Golang Backend Development
+// 1. Nama: 
+// 2. Email: 
+// 3. Sistem Operasi yang digunakan:
+// 4. Akun Gitlab/Github: 
+// 5. Akun Telegram: 
