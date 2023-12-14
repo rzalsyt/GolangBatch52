@@ -9,7 +9,7 @@ func main() {
 	//Soal 2
 
 	halo := "Halo Duia"
-	halo = " Halo Golang"
+	halo = "Halo Golang"
 
 	fmt.Println(halo)
 
@@ -32,8 +32,8 @@ func main() {
 	fmt.Println(angkaPertama + angkaKedua + angkaKetiga + angkaKeempat)
 
 	//Soal 5
-	kalimat := "halo halo bandung"
-	angka := 2021
+	kalimat string := "halo halo bandung"
+	angka integer:= 2021
 
-	// fmt.Println(kalimat + "- + angka)
+	fmt.Println(kalimat + - + angka)
 }
